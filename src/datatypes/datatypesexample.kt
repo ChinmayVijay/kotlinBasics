@@ -14,3 +14,10 @@ package datatypes
                 Short       16 bit                          (none)
 
  */
+
+/*
+        var             vs                  val
+        mutable                             immutable
+        value can be changed                value cannot be changed
+
+ */
